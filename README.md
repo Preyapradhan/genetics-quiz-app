@@ -1,20 +1,20 @@
-# Genetics and Evolution Quiz App
+# 🧬 Genetics and Evolution Quiz App 🎮
 
-## Project Overview
+## 📖 Project Overview
 The **Genetics and Evolution Quiz App** is a Flutter-based interactive quiz application designed to test users' knowledge of genetics and evolution. The app provides gamification features, including scoring, lives, background sounds, and a visually appealing UI. It fetches quiz data dynamically from an API and offers a seamless experience for users.
 
-## Features
-- **Dynamic Quiz Data**: Quiz questions and options are fetched from a remote API.
-- **Gamification Elements**:
-  - Scores are updated for correct answers.
-  - Lives decrease for incorrect answers.
-- **Audio Effects**:
-  - Background sound on the home and result screens.
-  - Correct and incorrect answer sound effects.
-- **Background Images**: The app includes themed backgrounds for each screen.
-- **Retry Functionality**: Users can retry the quiz after completing it.
+## ✨ Features
+- **📊 Dynamic Quiz Data**: Quiz questions and options are fetched from a remote API.
+- **🎮 Gamification Elements**:
+  - 🏆 Scores are updated for correct answers.
+  - ❤️ Lives decrease for incorrect answers.
+- **🔊 Audio Effects**:
+  - 🎵 Background sound on the home and result screens.
+  - ✅ Correct and ❌ incorrect answer sound effects.
+- **🖼️ Background Images**: The app includes themed backgrounds for each screen.
+- **🔄 Retry Functionality**: Users can retry the quiz after completing it.
 
-## Screenshots
+## 📸 Screenshots
 ### Screenshots Carousel
 <div align="center">
 
@@ -25,21 +25,21 @@ The **Genetics and Evolution Quiz App** is a Flutter-based interactive quiz appl
 
 </div>
 
-## Video Walkthrough
-[![Video Walkthrough]](https://drive.google.com/file/d/1TS2PUvI4QodXAfqT4kIjUG1g2XTQKhfk/view?usp=sharing)
+## 🎥 Video Walkthrough
+[![Video Walkthrough](video_thumbnail.jpg)](https://drive.google.com/file/d/1TS2PUvI4QodXAfqT4kIjUG1g2XTQKhfk/view?usp=sharing)
 
 ---
 
-## Setup Instructions
+## ⚙️ Setup Instructions
 
-### Prerequisites
+### 🛠️ Prerequisites
 1. Install [Flutter](https://flutter.dev/docs/get-started/install) and ensure it is set up on your system.
 2. Install any code editor of your choice (e.g., [Android Studio](https://developer.android.com/studio), [Visual Studio Code](https://code.visualstudio.com/)).
 
-### Steps
+### 🚀 Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Preyapradhan/genetics-quiz-app.git
+   git clone <repository-link>
    ```
 
 2. Navigate to the project directory:
@@ -61,13 +61,13 @@ The **Genetics and Evolution Quiz App** is a Flutter-based interactive quiz appl
    flutter run
    ```
 
-### Notes
+### 🔖 Notes
 - The app requires an internet connection to fetch quiz data from the API.
 - Ensure your Flutter environment is correctly set up to avoid runtime errors.
 
 ---
 
-## API Used
+## 🌐 API Used
 The quiz data is fetched from the following API:
 - **Endpoint**: `https://api.jsonserve.com/Uw5CrX`
 - **Response Format**:
@@ -85,7 +85,7 @@ The quiz data is fetched from the following API:
   }
   ```
 
-## Folder Structure
+## 📂 Folder Structure
 ```
 quiz_app/
 ├── lib/
@@ -93,16 +93,11 @@ quiz_app/
 ├── assets/
 │   ├── images/         # Background images
 │   ├── sounds/         # Audio files
-├── screenshots/        # App screenshots
-├── videos/             # App demo video
 ├── pubspec.yaml        # Dependency file
 ```
 
 ---
 
-## Contribution
+## 🤝 Contribution
 Contributions are welcome! If you'd like to improve the app, feel free to fork the repository and create a pull request.
-
-## License
-This project is licensed under the [MIT License](LICENSE).
 
