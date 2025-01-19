@@ -26,7 +26,7 @@ The **Genetics and Evolution Quiz App** is a Flutter-based interactive quiz appl
 </div>
 
 ## 🎥 Video Walkthrough
-[![Video Walkthrough]<img src="homescreen.jpg" alt="Home Screen" width="300" style="margin: 10px;">](https://drive.google.com/file/d/1TS2PUvI4QodXAfqT4kIjUG1g2XTQKhfk/view?usp=sharing)
+[![Video Walkthrough]!<br><img src="homescreen.jpg" alt="Home Screen" width="150" style="margin: 10px;">](https://drive.google.com/file/d/1TS2PUvI4QodXAfqT4kIjUG1g2XTQKhfk/view?usp=sharing)
 
 ---
 
@@ -39,7 +39,7 @@ The **Genetics and Evolution Quiz App** is a Flutter-based interactive quiz appl
 ### 🚀 Steps
 1. Clone the repository:
    ```bash
-   git clone <repository-link>
+   git clone https://github.com/Preyapradhan/genetics-quiz-app.git
    ```
 
 2. Navigate to the project directory:
