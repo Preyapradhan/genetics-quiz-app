@@ -16,23 +16,23 @@ The **Genetics and Evolution Quiz App** is a Flutter-based interactive quiz appl
 
 ## Screenshots
 ### Home Screen
-![Home Screen](![homescreen](https://github.com/user-attachments/assets/e52e123e-dfc9-4b8d-97e8-d152bf1d6c69)
+![Home Screen](homescreen.jpg)
 )
 
 ### Quiz Screen
-![Quiz Screen](![quizscreen](https://github.com/user-attachments/assets/6aafc138-d67d-4d1a-9afc-a5edd338da6b)
+![Quiz Screen](quizscreen.jpg)
 )
 
 ### Result Screen (Success)
-![Result Screen - Success](![result_success](https://github.com/user-attachments/assets/26659e63-cf8e-446a-9aa4-8c0922fd166b)
+![Result Screen - Success](result_success.jpg)
 )
 
 ### Result Screen (Game Over)
-![Result Screen - Game Over](![gameover](https://github.com/user-attachments/assets/3a31ee32-3012-4ce2-80e3-d53e1d1c5a55)
+![Result Screen - Game Over](result_gameover.jpg)
 )
 
 ## Video Walkthrough
-[Click here to watch the video walkthrough]()
+[Click here to watch the video walkthrough](app_demo.mp4)
 
 ---
 
