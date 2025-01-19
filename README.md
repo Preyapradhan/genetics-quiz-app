@@ -26,7 +26,7 @@ The **Genetics and Evolution Quiz App** is a Flutter-based interactive quiz appl
 </div>
 
 ## Video Walkthrough
-[Click here to watch the video walkthrough](videos/app_demo.mp4)
+[![Video Walkthrough]](https://drive.google.com/file/d/1TS2PUvI4QodXAfqT4kIjUG1g2XTQKhfk/view?usp=sharing)
 
 ---
 
