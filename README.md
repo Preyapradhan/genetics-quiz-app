@@ -15,24 +15,18 @@ The **Genetics and Evolution Quiz App** is a Flutter-based interactive quiz appl
 - **Retry Functionality**: Users can retry the quiz after completing it.
 
 ## Screenshots
-### Home Screen
-![Home Screen](homescreen.jpg)
-)
+### Screenshots Carousel
+<div align="center">
 
-### Quiz Screen
-![Quiz Screen](quizscreen.jpg)
-)
+<img src="homescreen.jpg" alt="Home Screen" width="300" style="margin: 10px;">
+<img src="quizscreen.jpg" alt="Quiz Screen" width="300" style="margin: 10px;">
+<img src="result_success.jpg" alt="Result Screen - Success" width="300" style="margin: 10px;">
+<img src="result_gameover.jpg" alt="Result Screen - Game Over" width="300" style="margin: 10px;">
 
-### Result Screen (Success)
-![Result Screen - Success](result_success.jpg)
-)
-
-### Result Screen (Game Over)
-![Result Screen - Game Over](result_gameover.jpg)
-)
+</div>
 
 ## Video Walkthrough
-[Click here to watch the video walkthrough](app_demo.mp4)
+[Click here to watch the video walkthrough](videos/app_demo.mp4)
 
 ---
 
@@ -45,7 +39,7 @@ The **Genetics and Evolution Quiz App** is a Flutter-based interactive quiz appl
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone <repository-link>
+   git clone https://github.com/Preyapradhan/genetics-quiz-app.git
    ```
 
 2. Navigate to the project directory:
@@ -109,4 +103,6 @@ quiz_app/
 ## Contribution
 Contributions are welcome! If you'd like to improve the app, feel free to fork the repository and create a pull request.
 
+## License
+This project is licensed under the [MIT License](LICENSE).
 
